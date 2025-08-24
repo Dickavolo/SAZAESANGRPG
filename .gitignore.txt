@@ -92,3 +92,10 @@
 # Specific files to ignore
 /ProjectSettings/ProjectVersion.txt
 /ProjectSettings/TimelineEditorUserSettings.asset
+
+# Unity generated
+Library/
+Temp/
+Obj/
+Build/
+UserSettings/
